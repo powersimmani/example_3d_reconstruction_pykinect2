@@ -17,17 +17,17 @@ KinectV2를 이용해 colored point cloud를 만드는 예제 코드입니다. 3
 ## Demo
 
 ### Color image
-![Color_image](./images/color.gif=384x216)
+![Color_image](images/color.gif=384x216)
 
 ### Depth image
-![Depth_image](./images/depth.gif=384x318)
+![Depth_image](images/depth.gif=384x318)
 
 ### Point cloud
-![Depth_image](./images/pointcloud.gif=384x216)
+![Depth_image](images/pointcloud.gif=384x216)
 
 
 ## Useful References
-- [Meshlab](http://www.meshlab.net/) can open ".ply" point clouds
-- [Point cloud viewer](https://www.amcbridge.com/resources/labs/desktop-apps/point-cloud-viewer) can open ".pcd" point clouds
+- [Meshlab](http://www.meshlab.net/): can open ".ply" point clouds
+- [Point cloud viewer](https://www.amcbridge.com/resources/labs/desktop-apps/point-cloud-viewer): can open ".pcd" point clouds
 
 
