@@ -17,17 +17,16 @@ KinectV2를 이용해 colored point cloud를 만드는 예제 코드입니다. 3
 ## Demo
 
 ### Color image
-![Color_image](images/color.gif=384x216)
+<img src="https://github.com/powersimmani/example_3d_reconstruction_pykinect2/blob/master/images/color.gif?raw=true" width="384" height="216">
+
 
 ### Depth image
-![Depth_image](images/depth.gif=384x318)
+<img src="https://github.com/powersimmani/example_3d_reconstruction_pykinect2/blob/master/images/depth.gif?raw=true" width="261" height="216">
 
 ### Point cloud
-![Depth_image](images/pointcloud.gif=384x216)
-
+<img src="https://github.com/powersimmani/example_3d_reconstruction_pykinect2/blob/master/images/pointcloud.gif?raw=true" width="384" height="216">
 
 ## Useful References
 - [Meshlab](http://www.meshlab.net/): can open ".ply" point clouds
 - [Point cloud viewer](https://www.amcbridge.com/resources/labs/desktop-apps/point-cloud-viewer): can open ".pcd" point clouds
-
 
