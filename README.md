@@ -22,3 +22,6 @@ pykinect2와 open3d 라이브러리를 이용해 colored point cloud를 만드�
 ### Point cloud
 ![Depth_image](./images/pointcloud.gif)
 
+## To Do
+# resize markdown image size
+# add more detail description
